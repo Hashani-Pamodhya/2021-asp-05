@@ -1,0 +1,9 @@
+
+# RStudio temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Modified FASTA test copy
+data/sars_cov2_genomes_modified.fasta
