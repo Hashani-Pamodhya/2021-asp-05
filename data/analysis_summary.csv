@@ -1,7 +1,13 @@
-"Metric","Result"
-"Number of genomes",10
-"Minimum genome length",29703
-"Maximum genome length",29762
-"Minimum GC content (%)",37.62
-"Maximum GC content (%)",38.02
-"Sequences containing ambiguous nucleotides",2
+"Metric","Value"
+"Total genomes","10"
+"Reference genome","PQ304899.2"
+"Mean genome length","29714.5"
+"Minimum genome length","29703"
+"Maximum genome length","29762"
+"Mean GC content (%)","37.86"
+"Minimum GC content (%)","37.62"
+"Maximum GC content (%)","38.02"
+"Mean nucleotide mismatches","32"
+"Minimum nucleotide mismatches","14"
+"Maximum nucleotide mismatches","146"
+"Total ambiguous nucleotides","265"
